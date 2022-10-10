@@ -11506,8 +11506,8 @@ pre .code {
   position: relative;
   height: 80vh;
   min-height: 600px;
-  background-image: url(../imgs/header.jpg);
-  background-image:url(../imgs/header.jpg);
+  background-image: url(../imgs/HEADER.jpg);
+  background-image:url(../imgs/HEADER.jpg);
   background-size: cover;
   background-position: center;
   background-repeat: no-repeat;
